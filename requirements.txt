@@ -4,3 +4,8 @@ matplotlib.pyplot
 matplotlib.patches
 seaborn
 ydata-profiling
+folium
+geocoder 
+vega_datasets
+geopandas
+geoplot
